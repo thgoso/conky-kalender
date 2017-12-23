@@ -10,3 +10,5 @@ Der Kalender stellt 6 Wochen dar und ist somit jeden Monat gleich in den Abmaße
 `
 ${font DejaVu Sans Mono:size=12}${execpi 7200 ~/.conky/cal_42.sh}
 `
+
+![alt text](https://github.com/thgoso/conky-kalender/blob/master/Bild.jpg)
